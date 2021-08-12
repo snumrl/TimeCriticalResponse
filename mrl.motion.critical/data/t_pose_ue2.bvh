@@ -1,0 +1,135 @@
+HIERARCHY
+ROOT Hips
+{
+  OFFSET 0.016292 96.7827 -0.499128
+  CHANNELS 6 Xposition Yposition Zposition Zrotation Xrotation Yrotation
+  JOINT Spine
+  {
+    OFFSET 10.8089 -0.851416 0
+    CHANNELS 3 Zrotation Xrotation Yrotation
+    JOINT Spine1
+    {
+      OFFSET 18.8753 3.80116 0
+      CHANNELS 3 Zrotation Xrotation Yrotation
+      JOINT Spine2
+      {
+        OFFSET 13.4073 0.420477 0
+        CHANNELS 3 Zrotation Xrotation Yrotation
+        JOINT LeftShoulder
+        {
+          OFFSET 11.8837 -2.73209 -3.78198
+          CHANNELS 3 Zrotation Xrotation Yrotation
+          JOINT LeftArm
+          {
+            OFFSET 15.7849 0 -2.35849e-05
+            CHANNELS 3 Zrotation Xrotation Yrotation
+            JOINT LeftForeArm
+            {
+              OFFSET 30.3399 0 0
+              CHANNELS 3 Zrotation Xrotation Yrotation
+              JOINT LeftHand
+              {
+                OFFSET 26.9751 0 2.45913e-05
+                CHANNELS 3 Zrotation Xrotation Yrotation
+                End Site
+                {
+                  OFFSET 8 0 0
+                }
+              }
+            }
+          }
+        }
+        JOINT RightShoulder
+        {
+          OFFSET 11.8838 -2.7321 3.782
+          CHANNELS 3 Zrotation Xrotation Yrotation
+          JOINT RightArm
+          {
+            OFFSET -15.7848 0 -1.07056e-05
+            CHANNELS 3 Zrotation Xrotation Yrotation
+            JOINT RightForeArm
+            {
+              OFFSET -30.34 1.02096e-05 -2.53607e-05
+              CHANNELS 3 Zrotation Xrotation Yrotation
+              JOINT RightHand
+              {
+                OFFSET -26.9752 2.07668e-05 0
+                CHANNELS 3 Zrotation Xrotation Yrotation
+                End Site
+                {
+                  OFFSET -8 0 0
+                }
+              }
+            }
+          }
+        }
+        JOINT Neck
+        {
+          OFFSET 16.5588 -0.355318 0
+          CHANNELS 3 Zrotation Xrotation Yrotation
+          JOINT Head
+          {
+            OFFSET 9.28361 0.364157 0
+            CHANNELS 3 Zrotation Xrotation Yrotation
+            End Site
+            {
+              OFFSET 5.28361 0.364157 0
+            }
+          }
+        }
+      }
+    }
+  }
+  JOINT LeftUpLeg
+  {
+    OFFSET -1.44883 -0.531424 -9.00581
+    CHANNELS 3 Zrotation Xrotation Yrotation
+    JOINT LeftLeg
+    {
+      OFFSET -42.572 0.0788889 -0.011964
+      CHANNELS 3 Zrotation Xrotation Yrotation
+      JOINT LeftFoot
+      {
+        OFFSET -40.1967 0 0
+        CHANNELS 3 Zrotation Xrotation Yrotation
+        JOINT LeftToe
+        {
+          OFFSET -10.4538 -16.5779 0.0801563
+          CHANNELS 3 Zrotation Xrotation Yrotation
+          End Site
+          {
+            OFFSET 3 0 0
+          }
+        }
+      }
+    }
+  }
+  JOINT RightUpLeg
+  {
+    OFFSET -1.44865 -0.531427 9.0058
+    CHANNELS 3 Zrotation Xrotation Yrotation
+    JOINT RightLeg
+    {
+      OFFSET 42.5723 -3.24776e-05 0
+      CHANNELS 3 Zrotation Xrotation Yrotation
+      JOINT RightFoot
+      {
+        OFFSET 40.1968 0 -1.14003e-05
+        CHANNELS 3 Zrotation Xrotation Yrotation
+        JOINT RightToe
+        {
+          OFFSET 10.4538 16.5778 -0.0801573
+          CHANNELS 3 Zrotation Xrotation Yrotation
+          End Site
+          {
+            OFFSET -3 0 0
+          }
+        }
+      }
+    }
+  }
+}
+MOTION
+Frames:	1
+Frame Time:	0.0333333
+7.40935 96.7272 8.0974 65.1272 -88.8512 -24.701 -9.98626 1.16399 -0.526171 13.355 0.184511 0.0127488 2.07169 0.185135 -0.0140464 14.5235 36.0177 55.4238 -32.6132 -27.4153 22.6382 -1.30553 8.12738 5.18419 -48.3917 -68.9214 -40.637 -168.594 32.8894 55.2378 -24.3237 -18.5738 17.7571 -8.01235 7.03069 7.78707 -33.4764 -74.3334 -27.9788 -21.725 -2.45159 -0.0279389 16.8241 -2.74431 -1.72661 2.7134 7.48509 -1.46811 -7.99053 -5.7679 2.28624 5.20763 -0.337863 -2.28883 -91.8836 0.00394375 0.00895438 -177.996 8.44101 -1.37179 -7.17027 -4.82429 2.58546 5.1564 -0.398273 -2.95722 -91.8836 0.00394404 0.00895438 

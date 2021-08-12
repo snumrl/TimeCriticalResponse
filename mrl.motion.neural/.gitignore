@@ -1,0 +1,10 @@
+/bin/
+/target/
+/neuralData/
+/danceCard/
+/output/
+/adaptiveTraining/
+*.log
+/log.txt
+/train_rl/
+/logs/

@@ -1,0 +1,32 @@
+PELVIS			Hips
+
+SPINE_1			Spine
+SPINE_2			Spine1
+CHEST			Spine2
+NECK			Neck
+HEAD			Head
+HEAD_DUMMY		HeadDummy
+
+LEFT_SHOULDER		LeftShoulder
+UPPER_LEFT_ARM		LeftArm
+LOWER_LEFT_ARM		LeftForeArm
+LEFT_PALM		LeftHand
+LEFT_FINGER_DUMMY_3	LeftHandDummy
+
+RIGHT_SHOULDER		RightShoulder
+UPPER_RIGHT_ARM		RightArm
+LOWER_RIGHT_ARM		RightForeArm
+RIGHT_PALM		RightHand
+RIGHT_FINGER_DUMMY_3	RightHandDummy
+
+UPPER_LEFT_LEG		LeftUpLeg
+LOWER_LEFT_LEG		LeftLeg
+LEFT_FOOT		LeftFoot
+LEFT_TOE		LeftToe
+LEFT_TOE_DUMMY		LeftToeDummy
+
+UPPER_RIGHT_LEG		RightUpLeg
+LOWER_RIGHT_LEG		RightLeg
+RIGHT_FOOT		RightFoot
+RIGHT_TOE		RightToe
+RIGHT_TOE_DUMMY		RightToeDummy

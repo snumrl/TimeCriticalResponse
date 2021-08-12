@@ -1,0 +1,12 @@
+/rnnData/
+/train2/
+/walk/
+/dribble_bv/
+/logs/
+/walk_fc/
+/walk_rl/
+/walk_dc/
+/walk_dc_turn/
+/test.py
+*__pycache__
+/test/

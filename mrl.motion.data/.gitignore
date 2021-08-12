@@ -1,0 +1,5 @@
+/bin/
+/target/
+*.bvh
+/output/
+*.dat

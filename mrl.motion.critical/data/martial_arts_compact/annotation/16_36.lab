@@ -1,0 +1,24 @@
+{
+	defaultType:
+	file:16_36_1.bvh
+	person:1
+	oppositePerson:0
+	startFrame:6
+	endFrame:41
+	include:
+	isAlone:
+	type:run
+	subtype:
+	mood:
+	power:
+	beforeActiveState:
+	afterActiveState:
+	beforePassiveState:
+	afterPassiveState:
+	mutipleInteraction:
+	interactionFrame:-1
+	interactionActivePart:
+	interactionPassivePart:
+	interactionType:
+	weight:1.0
+},

@@ -1,0 +1,24 @@
+{
+	defaultType:
+	file:s_001_3_2.bvh
+	person:2
+	oppositePerson:0
+	startFrame:292
+	endFrame:420
+	include:
+	isAlone:
+	type:
+	subtype:
+	mood:
+	power:
+	beforeActiveState:
+	afterActiveState:
+	beforePassiveState:
+	afterPassiveState:
+	mutipleInteraction:
+	interactionFrame:-1
+	interactionActivePart:
+	interactionPassivePart:
+	interactionType:
+	weight:1.0
+},
